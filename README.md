@@ -1,6 +1,6 @@
 # DSA Practice – Jayanth
 
-Hey! I'm Jayanth 👋  
+
 This repository is my personal space where I practice Data Structures & Algorithms consistently.  
 I started this mainly to improve my problem-solving skills and build a strong foundation for interviews and competitive programming.
 
@@ -61,12 +61,5 @@ g++ filename.cpp -o output
 
 ---
 
-### 📌 Roadmap
-- Solve 300+ essential problems across all topics
-- Master core algorithms and patterns
-- Track daily progress and write detailed explanations
-- Automate problem addition in the future
+Thanks for checking this out — This is a random shit one lol.
 
----
-
-Thanks for checking this out — always open to suggestions and improvements :)
