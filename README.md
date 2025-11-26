@@ -30,7 +30,20 @@ This repo will grow slowly, problem by problem — but **with genuine learning b
 
 ### 📟 Problem Progress
 
-- [ ] Arrays  
+- [ ]- [ ] [Arrays](Arrays/two_sum.cpp)
+- [ ] [Strings](Strings/reverse_string.cpp)
+- [ ] [LinkedList](LinkedList/linked_list_basic.cpp)
+- [ ] [Stack](Stack/stack_basic.cpp)
+- [ ] [Queue]()
+- [ ] [Trees]()
+- [ ] [Graphs]()
+- [ ] [Dynamic Programming]()
+- [ ] [Recursion & Backtracking]()
+- [ ] [Sorting]()
+- [ ] [Searching]()
+- [ ] [Bit Manipulation]()
+- [ ] [Math]()
+ Arrays  
 - [ ] Strings  
 - [ ] LinkedList  
 - [ ] Stack  
