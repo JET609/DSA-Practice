@@ -1,16 +1,34 @@
-# DSA Practice – jayanth
+# DSA Practice – Jayanth
 
-Solved problems from LeetCode, GFG, CodeStudio & InterviewBit.
+Hey! I'm Jayanth 👋  
+This repository is my personal space where I practice Data Structures & Algorithms consistently.  
+I started this mainly to improve my problem-solving skills and build a strong foundation for interviews and competitive programming.
 
-## Badges
+Instead of just copying solutions, I'm trying to **understand the logic behind each problem** and write explanations in my own words.  
+My approach is simple: start with a brute-force idea, learn from mistakes, then optimize step by step.
 
-![Languages](https://img.shields.io/github/languages/count/JET609/DSA-Practice)
-![Last Commit](https://img.shields.io/github/last-commit/JET609/DSA-Practice)
-![Repo Size](https://img.shields.io/github/repo-size/JET609/DSA-Practice)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JET609.DSA-Practice)
-![Code Style](https://img.shields.io/badge/code%20style-clean-success)
+---
 
-## Problem Progress
+### 💡 Why I’m doing this
+I used to struggle with consistency and logical thinking, so I decided to commit publicly and track real progress here.  
+This repo will grow slowly, problem by problem — but **with genuine learning behind every solution**.
+
+---
+
+### 🔥 Recent Progress
+- **Two Sum (Arrays)** — Implemented brute force first to understand the idea; later optimized with Hash Map (O(n)).  
+  Took some time to debug handling of duplicate values but it feels solid now.
+
+---
+
+### 🌟 Next Goals
+- Continue Arrays problems (Prefix Sum, Kadane’s Algorithm, Sliding Window)
+- Start LinkedList basics
+- Add detailed explanations and comments inside solution files
+
+---
+
+### 📟 Problem Progress
 
 - [ ] Arrays  
 - [ ] Strings  
@@ -26,30 +44,29 @@ Solved problems from LeetCode, GFG, CodeStudio & InterviewBit.
 - [ ] Bit Manipulation  
 - [ ] Math  
 
-## Problem Tracker
+---
 
-| Topic | Problem | Status | Time Complexity | Space Complexity |
-| --- | --- | --- | --- | --- |
-| Arrays | Two Sum | ✔ | O(n) | O(n) |
-
-## How to Run Code
-
-To compile and run a C++ solution:  
-```
-bash
+### 🧐 Code Execution
+```bash
 g++ filename.cpp -o output
 ./output
 ```
 
-## Coding Profiles
+---
 
-- [LeetCode](https://leetcode.com/)  
-- [GitHub](https://github.com/JET609)  
-- [LinkedIn](https://linkedin.com/)  
+### 📍 Profiles
+- LeetCode: https://leetcode.com/
+- GitHub: https://github.com/JET609
+- LinkedIn: https://linkedin.com/
 
-## Roadmap
+---
 
-- Solve 300+ essential problems across all topics.  
-- Master key algorithms and data structures.  
-- Complete company-specific problem sets.  
-- Automate problem addition with scripts.
+### 📌 Roadmap
+- Solve 300+ essential problems across all topics
+- Master core algorithms and patterns
+- Track daily progress and write detailed explanations
+- Automate problem addition in the future
+
+---
+
+Thanks for checking this out — always open to suggestions and improvements :)
