@@ -30,8 +30,8 @@ This repo will grow slowly, problem by problem — but **with genuine learning b
 
 ### 📟 Problem Progress
 
-- [ ]- [ ] [Arrays](Arrays/two_sum.cpp)
-- [ ] [Strings](Strings/reverse_string.cpp)
+- [ ] [Two Sum](Arrays/two_sum.cpp) - [LeetCode](https://leetcode.com/problems/two-sum/)
+- [ ] [Reverse String](Strings/reverse_string.cpp) - [LeetCode](https://leetcode.com/problems/reverse-string/)
 - [ ] [LinkedList](LinkedList/linked_list_basic.cpp)
 - [ ] [Stack](Stack/stack_basic.cpp)
 - [ ] [Queue]()
@@ -43,19 +43,6 @@ This repo will grow slowly, problem by problem — but **with genuine learning b
 - [ ] [Searching]()
 - [ ] [Bit Manipulation]()
 - [ ] [Math]()
- Arrays  
-- [ ] Strings  
-- [ ] LinkedList  
-- [ ] Stack  
-- [ ] Queue  
-- [ ] Trees  
-- [ ] Graphs  
-- [ ] Dynamic Programming  
-- [ ] Recursion & Backtracking  
-- [ ] Sorting  
-- [ ] Searching  
-- [ ] Bit Manipulation  
-- [ ] Math  
 
 ---
 
